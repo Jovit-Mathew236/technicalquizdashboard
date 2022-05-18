@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/technicalquizdashboard/static/css/main.414e8376.css",
+    "main.js": "/technicalquizdashboard/static/js/main.9d185a74.js",
+    "index.html": "/technicalquizdashboard/index.html",
+    "main.414e8376.css.map": "/technicalquizdashboard/static/css/main.414e8376.css.map",
+    "main.9d185a74.js.map": "/technicalquizdashboard/static/js/main.9d185a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414e8376.css",
+    "static/js/main.9d185a74.js"
+  ]
+}
